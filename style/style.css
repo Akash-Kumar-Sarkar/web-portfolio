@@ -66,3 +66,9 @@ nav a{
 .pa{
     font-weight: bold;
 }
+.what{
+    text-align: center;
+    margin: 150px;
+    align-items: center;
+    margin-bottom: 0px;
+}
