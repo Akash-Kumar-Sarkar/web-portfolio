@@ -50,3 +50,19 @@ nav a{
     width: 400px;
     
 }
+.about{
+    text-align: center;
+    margin: 150px;
+    align-items: center;
+}
+.me{
+    display: flex;
+    text-align: center;
+    padding-left: 30px;
+}
+.pa1{
+    padding-right: 30px;
+}
+.pa{
+    font-weight: bold;
+}
