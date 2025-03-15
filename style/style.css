@@ -93,3 +93,19 @@ nav a{
     text-align: center;
     margin-top: 50px;
 }
+.sms{
+    height: 100px;
+    width: 150px;
+    text-align: center;
+}
+.mes {
+    display: block;
+}
+input{
+    display: block;
+    margin-bottom: 30px;
+}
+.foot{
+    display:flex;
+    margin: 150px;
+}
