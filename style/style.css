@@ -70,5 +70,9 @@ nav a{
     text-align: center;
     margin: 150px;
     align-items: center;
-    margin-bottom: 0px;
+    margin-bottom: 5px;
+}
+.skill{
+    display: flex;
+    margin: 50px 150px 15px 150px;
 }
