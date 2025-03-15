@@ -76,3 +76,20 @@ nav a{
     display: flex;
     margin: 50px 150px 15px 150px;
 }
+.rs{
+    margin-top: 100px;
+    margin-bottom: 70px;
+    text-align: center;
+}
+.resume{
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.deg{
+ 
+}
+.btn_d{
+    text-align: center;
+    margin-top: 50px;
+}
